@@ -1,6 +1,7 @@
 #include <iostream>
 #include <sstream>
 #include <fstream>
+#include <algorithm>
 #include "FileIO.h"
 
 FileIO::FileIO() {}
