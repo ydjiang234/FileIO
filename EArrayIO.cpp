@@ -1,4 +1,5 @@
 #include <iostream>
+#include <algorithm>
 #include <Dense>
 #include "FileIO.h"
 #include "EArrayIO.h"
