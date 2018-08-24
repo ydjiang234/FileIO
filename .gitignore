@@ -1,0 +1,7 @@
+
+*.a
+*.o
+main
+ref_file.txt
+*.txt
+*.out
